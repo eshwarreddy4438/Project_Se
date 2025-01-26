@@ -8,4 +8,6 @@ def sortting(a):
     return sorted(a)
 def sub(a, b):
     return a-b
+def mul(a, b):
+    return a*b
 
